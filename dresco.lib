@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Tue 26 Jun 2012 18:51:02 BST
+EESchema-LIBRARY Version 2.3  Date: Wed 27 Jun 2012 16:49:30 BST
 #encoding utf-8
 #
 # +3.3V
@@ -72,7 +72,7 @@ F1 "ANTENNA" 200 -180 60 H V R CNN
 DRAW
 P 2 0 1 0  0 200  0 50 N
 P 4 0 1 0  -150 200  150 200  0 50  -150 200 N
-X ~ ~ 0 -100 165 U 40 40 0 1 P
+X ~ 1 0 -100 165 U 40 40 0 1 P
 ENDDRAW
 ENDDEF
 #
