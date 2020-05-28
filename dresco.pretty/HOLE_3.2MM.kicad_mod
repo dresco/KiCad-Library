@@ -1,0 +1,11 @@
+(module HOLE_3.2MM (layer F.Cu) (tedit 4FCF7562)
+  (descr "Connecteurs 2 pins")
+  (tags "CONN DEV")
+  (fp_text reference Val** (at 0 -2.84988) (layer F.SilkS) hide
+    (effects (font (size 0.762 0.762) (thickness 0.1524)))
+  )
+  (fp_text value "HOLE 3.2MM" (at 0 3.05054) (layer F.SilkS) hide
+    (effects (font (size 0.762 0.762) (thickness 0.1524)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 4.20116 4.20116) (drill 3.2004) (layers *.Cu *.Mask F.SilkS))
+)
